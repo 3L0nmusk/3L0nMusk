@@ -1,4 +1,4 @@
-![MasterHead]img align="right"(https://i.imgur.com/LVKvjL6.gif)
+![MasterHead](https://i.imgur.com/LVKvjL6.gif)
 <h1 align="center">Hi 👋, I'm 3l0n Musk</h1>
 <h3 align="center">I'm Selling Spaceship</h3>
 
