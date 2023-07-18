@@ -1,11 +1,6 @@
-[![MasterHead](https://cdn.dribbble.com/users/43762/screenshots/1438974/media/487e8955c49643b4c79b7b4a05c4f7e4.gif)
+[![MasterHead](https://media.tenor.com/N31mBMFF96IAAAAC/random-random-space-deaths.gif)
 <h1 align="center">Hi 👋, I'm 3l0n Musk</h1>
 <h3 align="center">I'm Selling Spaceship</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/fetch/w300-preview/3b/3b7deb76639ee88783860ad59e24a964.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3l0nmusk&label=Profile%20views&color=0e75b6&style=flat" alt="3l0nmusk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3l0nmusk" alt="3l0nmusk" /></a> </p>
 
 - 🌱 I’m currently learning **C, C++, Javascrpit, HTML**
 
