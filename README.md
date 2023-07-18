@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/N31mBMFF96IAAAAC/random-random-space-deaths.gif)
+[![MasterHead]([https://media.tenor.com/N31mBMFF96IAAAAC/random-random-space-deaths.gif](https://i.imgur.com/LVKvjL6.gif))
 <h1 align="center">Hi 👋, I'm 3l0n Musk</h1>
 <h3 align="center">I'm Selling Spaceship</h3>
 
